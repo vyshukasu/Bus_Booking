@@ -38,6 +38,9 @@ TravelBus is a comprehensive online bus ticket booking platform designed to prov
 - HTML5
 - CSS (Responsive Design)
 - Vanilla JavaScript
+- NodeJS
+- MangoDB
+- ExpressJS
 
 ## Installation
 
